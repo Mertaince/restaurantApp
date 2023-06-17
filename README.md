@@ -18,14 +18,15 @@ Model: MVVM
 
 -App screenshots
 
-![ScreenShot](https://github.com/Mertaince/restaurantApp/tree/main/ScreenShot/login.png)
-![ScreenShot](https://github.com/Mertaince/restaurantApp/tree/main/ScreenShot/register.png)
-![ScreenShot](https://github.com/Mertaince/restaurantApp/tree/main/ScreenShot/main.png)
-![ScreenShot](https://github.com/Mertaince/restaurantApp/tree/main/ScreenShot/shopping.png)
-![ScreenShot](https://github.com/Mertaince/restaurantApp/tree/main/ScreenShot/card.png)
-![ScreenShot](https://github.com/Mertaince/restaurantApp/tree/main/ScreenShot/onay.png)
-![ScreenShot](https://github.com/Mertaince/restaurantApp/tree/main/ScreenShot/search.png)
-![ScreenShot](https://github.com/Mertaince/restaurantApp/tree/main/ScreenShot/profile.png)
-![ScreenShot](https://github.com/Mertaince/restaurantApp/tree/main/ScreenShot/support.png)
+![ScreenShot](https://github.com/Mertaince/restaurantApp/blob/main/ScreenShot/login.png)
+![ScreenShot](https://github.com/Mertaince/restaurantApp/blob/main/ScreenShot/register.png)
+![ScreenShot](https://github.com/Mertaince/restaurantApp/blob/main/ScreenShot/main.png)
+![ScreenShot](https://github.com/Mertaince/restaurantApp/blob/main/ScreenShot/shopping.png)
+![ScreenShot](https://github.com/Mertaince/restaurantApp/blob/main/ScreenShot/card.png)
+![ScreenShot](https://github.com/Mertaince/restaurantApp/blob/main/ScreenShot/onay.png)
+![ScreenShot](https://github.com/Mertaince/restaurantApp/blob/main/ScreenShot/search.png)
+![ScreenShot](https://github.com/Mertaince/restaurantApp/blob/main/ScreenShot/profile.png)
+![ScreenShot](https://github.com/Mertaince/restaurantApp/blob/main/ScreenShot/support.png)
+
 
 
